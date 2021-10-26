@@ -1,0 +1,72 @@
+{"id": "scsmbstgra", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id": "scsmbstgrb", "state": "STARTED",  "timestamp": 1491377495213}
+{"id": "scsmbstgrc", "state": "FINISHED", "timestamp": 1491377495218}
+{"id": "scsmbstgra", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217}
+{"id": "scsmbstgrc", "state": "STARTED",  "timestamp": 1491377495210}
+{"id": "scsmbstgrb", "state": "FINISHED", "timestamp": 1491377495216}
+{"id": "scsmbstgrd", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id": "scsmbstgre", "state": "STARTED",  "timestamp": 1491377495213}
+{"id": "scsmbstgrf", "state": "FINISHED", "timestamp": 1491377495218}
+{"id": "scsmbstgrd", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217}
+{"id": "scsmbstgrf", "state": "STARTED",  "timestamp": 1491377495210}
+{"id": "scsmbstgre", "state": "FINISHED", "timestamp": 1491377495216}
+{"id": "scsmbstgrg", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id": "scsmbstgrh", "state": "STARTED",  "timestamp": 1491377495213}
+{"id": "scsmbstgri", "state": "FINISHED", "timestamp": 1491377495218}
+{"id": "scsmbstgrg", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217}
+{"id": "scsmbstgri", "state": "STARTED",  "timestamp": 1491377495210}
+{"id": "scsmbstgrh", "state": "FINISHED", "timestamp": 1491377495216}
+{"id": "scsmbstgrj", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id": "scsmbstgrk", "state": "STARTED",  "timestamp": 1491377495213}
+{"id": "scsmbstgrl", "state": "FINISHED", "timestamp": 1491377495218}
+{"id": "scsmbstgrj", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217}
+{"id": "scsmbstgrl", "state": "STARTED",  "timestamp": 1491377495210}
+{"id": "scsmbstgrk", "state": "FINISHED", "timestamp": 1491377495216}
+{"id": "scsmbstgrm", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id": "scsmbstgrn", "state": "STARTED",  "timestamp": 1491377495213}
+{"id": "scsmbstgro", "state": "FINISHED", "timestamp": 1491377495218}
+{"id": "scsmbstgrm", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217}
+{"id": "scsmbstgro", "state": "STARTED",  "timestamp": 1491377495210}
+{"id": "scsmbstgrn", "state": "FINISHED", "timestamp": 1491377495216}
+{"id": "scsmbstgrp", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id": "scsmbstgrq", "state": "STARTED",  "timestamp": 1491377495213}
+{"id": "scsmbstgrr", "state": "FINISHED", "timestamp": 1491377495218}
+{"id": "scsmbstgrp", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217}
+{"id": "scsmbstgrr", "state": "STARTED",  "timestamp": 1491377495210}
+{"id": "scsmbstgrq", "state": "FINISHED", "timestamp": 1491377495216}
+{"id": "scsmbstgrs", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id": "scsmbstgrt", "state": "STARTED",  "timestamp": 1491377495213}
+{"id": "scsmbstgru", "state": "FINISHED", "timestamp": 1491377495218}
+{"id": "scsmbstgrs", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217}
+{"id": "scsmbstgru", "state": "STARTED",  "timestamp": 1491377495210}
+{"id": "scsmbstgrt", "state": "FINISHED", "timestamp": 1491377495216}
+{"id": "scsmbstgrv", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id": "scsmbstgrw", "state": "STARTED",  "timestamp": 1491377495213}
+{"id": "scsmbstgrx", "state": "FINISHED", "timestamp": 1491377495218}
+{"id": "scsmbstgrv", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217}
+{"id": "scsmbstgrx", "state": "STARTED",  "timestamp": 1491377495210}
+{"id": "scsmbstgrw", "state": "FINISHED", "timestamp": 1491377495216}
+{"id": "scsmbstgry", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id": "scsmbstgrz", "state": "STARTED",  "timestamp": 1491377495213}
+{"id": "scsmbstgr1", "state": "FINISHED", "timestamp": 1491377495218}
+{"id": "scsmbstgry", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217}
+{"id": "scsmbstgr1", "state": "STARTED",  "timestamp": 1491377495210}
+{"id": "scsmbstgrz", "state": "FINISHED", "timestamp": 1491377495216}
+{"id": "scsmbstgr2", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id": "scsmbstgr3", "state": "STARTED",  "timestamp": 1491377495213}
+{"id": "scsmbstgr4", "state": "FINISHED", "timestamp": 1491377495218}
+{"id": "scsmbstgr2", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217}
+{"id": "scsmbstgr4", "state": "STARTED",  "timestamp": 1491377495210}
+{"id": "scsmbstgr3", "state": "FINISHED", "timestamp": 1491377495216}
+{"id": "scsmbstgr5", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id": "scsmbstgr6", "state": "STARTED",  "timestamp": 1491377495213}
+{"id": "scsmbstgr7", "state": "FINISHED", "timestamp": 1491377495218}
+{"id": "scsmbstgr5", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217}
+{"id": "scsmbstgr7", "state": "STARTED",  "timestamp": 1491377495210}
+{"id": "scsmbstgr6", "state": "FINISHED", "timestamp": 1491377495216}
+{"id": "scsmbstgr8", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id": "scsmbstgr9", "state": "STARTED",  "timestamp": 1491377495213}
+{"id": "scsmbstgr10", "state": "FINISHED", "timestamp": 1491377495218}
+{"id": "scsmbstgr8", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217}
+{"id": "scsmbstgr10", "state": "STARTED",  "timestamp": 1491377495210}
+{"id": "scsmbstgr9", "state": "FINISHED", "timestamp": 1491377495216}
