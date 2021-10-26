@@ -7,7 +7,7 @@
 </ul>
 <BR>
 <ol>
-<li>Clone this project using `git clone git@github.com:niteshnair/JavaCodingChallenge.git`</li>
+<li>Clone this project using <code>git clone git@github.com:niteshnair/JavaCodingChallenge.git</code></li>
 <li>Make sure all the pre-requisite conditions has been satisfied </li>
 <li>
 Command Line arguments to be provided are as follows
@@ -20,5 +20,6 @@ Command Line arguments to be provided are as follows
 </div>
 </li>
 <li>To execute the code provide the below command in a command line opened at the project directory</li>
-`mvn exec:java -Dexec.mainClass=logreader.LogReader -Dexec.args="logfilepath dbpath dbname"`
+
+<code>mvn exec:java -Dexec.mainClass=logreader.LogReader -Dexec.args="logfilepath dbpath dbname"</code>
 </ol>
