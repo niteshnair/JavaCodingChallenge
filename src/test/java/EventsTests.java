@@ -89,8 +89,6 @@ public class EventsTests {
   @Test
   public void selectDataIntoHsqlDb() {
     try {
-      EventJsonParser parser = new EventJsonParser(
-          "D:\\CodingChallenge\\JavaCodingChallenge\\src\\main\\resources\\logfile.txt");
       EventDBManager eventDBManager = new EventDBManager(dbConn);
       ArrayList<Event> selectEvents = eventDBManager.getEventsFromTable();
       assert selectEvents.size() > 0;
